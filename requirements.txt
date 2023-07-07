@@ -56,6 +56,8 @@ validators
 vcsi
 wand
 wget
+flask
+gunicorn
 
 git+https://github.com/Jisan09/search-engine-parser
 git+https://github.com/Jisan09/Telethon@test
